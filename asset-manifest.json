@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rewardspoints/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/rewardspoints/static/js/main.cbce821f.chunk.js",
+    "main.js.map": "/rewardspoints/static/js/main.cbce821f.chunk.js.map",
+    "runtime-main.js": "/rewardspoints/static/js/runtime-main.16efee28.js",
+    "runtime-main.js.map": "/rewardspoints/static/js/runtime-main.16efee28.js.map",
+    "static/js/2.9fc35e48.chunk.js": "/rewardspoints/static/js/2.9fc35e48.chunk.js",
+    "static/js/2.9fc35e48.chunk.js.map": "/rewardspoints/static/js/2.9fc35e48.chunk.js.map",
+    "static/js/3.5feeb2e8.chunk.js": "/rewardspoints/static/js/3.5feeb2e8.chunk.js",
+    "static/js/3.5feeb2e8.chunk.js.map": "/rewardspoints/static/js/3.5feeb2e8.chunk.js.map",
+    "index.html": "/rewardspoints/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/rewardspoints/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9fc35e48.chunk.js.LICENSE.txt": "/rewardspoints/static/js/2.9fc35e48.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16efee28.js",
+    "static/js/2.9fc35e48.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cbce821f.chunk.js"
+  ]
+}
